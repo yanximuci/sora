@@ -1,0 +1,62 @@
+{
+  "ver": 1.0,
+  "se": {
+    "3": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/commonSe/3.mp3"
+    },
+    "6": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/commonSe/6.mp3"
+    },
+    "7": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/commonSe/7.mp3"
+    },
+    "8": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/commonSe/8.mp3"
+    },
+    "10": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/commonSe/10.mp3"
+    },
+    "11": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/commonSe/11.mp3"
+    },
+    "9": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/9.wav"
+    },
+    "25": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/25.wav"
+    },
+    "26": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/26.wav"
+    },
+    "27": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/27.wav"
+    },
+    "28": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/28.wav"
+    },
+    "29": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/29.wav"
+    },
+    "30": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/30.wav"
+    },
+    "31": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/31.wav"
+    },
+    "32": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/32.wav"
+    },
+    "33": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/33.wav"
+    },
+    "34": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/34.wav"
+    },
+    "35": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/35.wav"
+    },
+    "36": {
+      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenHou_DIY_ACG/main/sora/36.wav"
+    }
+  }
+}
